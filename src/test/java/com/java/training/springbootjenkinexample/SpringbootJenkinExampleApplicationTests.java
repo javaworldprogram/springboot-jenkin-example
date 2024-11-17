@@ -19,7 +19,7 @@ class SpringbootJenkinExampleApplicationTests {
 
     @Test
     void contextLoads() {
-        logger.info("contextLoads Test.....----.");
+        logger.info("contextLoads Second Test Commit");
         assertEquals(true, true);
     }
 
